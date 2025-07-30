@@ -54,27 +54,17 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 A quick preview of how the **Rapido Insurance Application** looks and works:
 
 ### 🏠 Home Screen
-![Application In Screenshots-1]
+Application In Screenshots
 
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1931).png" width="800" height="800"> 
 
-![Application In Screenshots-2]
-
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1932).png" width="800" height="800"> 
-
-![Application In Screenshots-3]
 
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1933).png" width="800" height="800"> 
 
-![Application In Screenshots-4]
-
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1934).png" width="800" height="800"> 
 
-![Application In Screenshots-5]
-
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1935).png" width="800" height="800"> 
-
-![Application In Screenshots-6]
 
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1936).png" width="800" height="800"> 
 
