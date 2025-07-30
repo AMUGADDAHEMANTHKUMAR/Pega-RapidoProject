@@ -105,7 +105,7 @@ Filtered server logs for the operator `rapido@impl.com`, useful for identifying 
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com) or email if you'd like to collaborate or have questions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or email if you'd like to collaborate or have questions.
 
 ---
 
