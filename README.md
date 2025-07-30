@@ -1,6 +1,6 @@
 # 🛵 Rapido Insurance Application – Pega Project
 
-An end-to-end **Auto Insurance System** built using the **Pega Platform**, designed to manage the complete lifecycle of insurance—from policy creation to claims and renewals—with personalized recommendations and real-time notifications.
+An end-to-end **Insurance System** built using the **Pega Platform**, designed to manage the complete lifecycle of insurance—from policy creation to claims and renewals—with personalized recommendations and real-time notifications.
 
 ---
 
@@ -60,7 +60,7 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 > Requires Pega Personal Edition or a cloud environment
 
-1. Import the application file via **Designer Studio → Application → Distribution → Import**  
+1. Import the application (https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/PegaRapidoProjectFile.zip) file via **Designer Studio → Application → Distribution → Import**  
 2. Check and validate all **case types**, **data types**, and **rulesets**  
 3. Test each flow from **App Studio**  
 4. Verify premium and date calculations via **Declare Expressions**  
