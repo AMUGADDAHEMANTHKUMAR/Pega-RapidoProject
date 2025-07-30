@@ -47,9 +47,7 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 ---
 
-## 📸 Screenshots (Optional)
-
-## 📸 Screenshots
+## 📸 Application Screenshots
 
 A quick preview of how the **Rapido Insurance Application** looks and works:
 
@@ -69,7 +67,6 @@ Application In Screenshots
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1936).png" width="800" height="800"> 
 
 
-## 📸 Application Screenshots
 
 ### 🧑‍💼 Operator ID Management  
 Displays a list of all operator accounts configured in the application, with their work groups and access groups.  
@@ -101,12 +98,14 @@ Filtered server logs for the operator `rapido@impl.com`, useful for identifying 
 5. Trigger REST APIs and check the response using **Connect REST rules**
 
 ---
+## 🧑‍💻 Author
+
+**Amugadda Hemanth Kumar**
+*Pega Developer | Enthusiastic fresher passionate about building smart digital solutions.*
 
 ## 📬 Contact
 
-**Developer:** Amugadda Hemanth Kumar  
-📧 Email: [your email here]  
-🔗 LinkedIn: [your LinkedIn here]
+Feel free to reach out via [LinkedIn](https://www.linkedin.com) or email if you'd like to collaborate or have questions.
 
 ---
 
