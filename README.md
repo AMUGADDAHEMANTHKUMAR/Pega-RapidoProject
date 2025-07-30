@@ -79,22 +79,23 @@ A quick preview of how the **Rapido Insurance Application** looks and works:
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1936).png" width="800" height="800"> 
 
 
-### 📝 Policy Form
-Users can enter vehicle and customer details to initiate policy creation.
-![Policy Form](Screenshot (1928).png)
+## 📸 Application Screenshots
 
-### 📊 Decision Table for Policy Suggestion
-Premium logic and policy recommendations based on vehicle type, IDV, and duration.
-![Decision Table](Screenshot (1930).png)
+### 🧑‍💼 Operator ID Management  
+Displays a list of all operator accounts configured in the application, with their work groups and access groups.  
+![Operator ID](https://raw.githubusercontent.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/main/Screenshot%20(1939).png)
 
-### 💰 Premium Calculation
-Auto-calculated premium values using Declare Expressions.
-![Premium Calculation](Screenshot (1931).png)
+### 🔗 SOAP Connector Activity  
+Activity named `CallConnectSoapAct` which connects to an external SOAP service, sets properties, and parses XML responses.  
+![SOAP Connector Activity](https://raw.githubusercontent.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/main/Screenshot%20(1940).png)
 
-### ✅ Confirmation Screen
-Once approved, the final policy is shown with all selected options.
-![Confirmation Screen](Screenshot (1932).png)
+### 🕵️ Declare OnChange Rule  
+This rule (`WatchAgencyCode`) monitors changes to the `AgencyCode` property and calls an activity dynamically when the condition is met.  
+![Declare OnChange Rule](https://raw.githubusercontent.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/main/Screenshot%20(1941).png)
 
+### 📄 PEGA Log Viewer  
+Filtered server logs for the operator `rapido@impl.com`, useful for identifying runtime errors and debugging.  
+![PEGA Log Viewer](https://raw.githubusercontent.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/main/Screenshot%20(1942).png)
 
 ## 🔧 How to Deploy
 
