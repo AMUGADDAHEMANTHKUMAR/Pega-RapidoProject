@@ -49,10 +49,19 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 ## 📸 Screenshots (Optional)
 
-> Add visuals to make the README more engaging:  
-> ![Policy Form](screenshots/policy_form.png)  
-> ![Decision Strategy](screenshots/decision_strategy.png)  
-> ![Premium Calculation](screenshots/premium_calc.png)
+```markdown
+## 📸 Screenshots
+
+> Add visuals to make the README more engaging:
+
+### 🧾 Policy Form UI
+![Policy Form](screenshots/policy_form.png)
+
+### 🧠 Decision Strategy Example
+![Decision Strategy](screenshots/decision_strategy.png)
+
+### 💸 Premium Calculation Display
+![Premium Calculation](screenshots/premium_calc.png)
 
 ---
 
