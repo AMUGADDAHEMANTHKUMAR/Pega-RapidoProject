@@ -60,7 +60,9 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 > Requires Pega Personal Edition or a cloud environment
 
-1. Import the application ![Project File] (https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/PegaRapidoProjectFile.zip) file via **Designer Studio → Application → Distribution → Import**  
+1. Import the application 📥 **Import the Application:**  
+[🔗 Download Project File](https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/PegaRapidoProjectFile.zip)
+ file via **Designer Studio → Application → Distribution → Import**  
 2. Check and validate all **case types**, **data types**, and **rulesets**  
 3. Test each flow from **App Studio**  
 4. Verify premium and date calculations via **Declare Expressions**  
