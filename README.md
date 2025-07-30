@@ -54,7 +54,7 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 A quick preview of how the **Rapido Insurance Application** looks and works:
 
 ### 🏠 Home Screen
-![Home Screen](Screenshot (1927).png)
+![Home Screen](./Screenshot (1927).png)
 
 ### 📝 Policy Form
 Users can enter vehicle and customer details to initiate policy creation.
