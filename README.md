@@ -54,7 +54,7 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 A quick preview of how the **Rapido Insurance Application** looks and works:
 
 ### 🏠 Home Screen
-![Application In Screenshots-1](https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1931).png)
+![Application In Screenshots-1](<img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1931).png" width="100" height="100"> )
 
 ### 📝 Policy Form
 Users can enter vehicle and customer details to initiate policy creation.
