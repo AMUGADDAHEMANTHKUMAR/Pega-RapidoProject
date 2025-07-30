@@ -47,6 +47,7 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 ---
 
+```md
 ## 📸 Application Screenshots
 
 A quick preview of how the **Rapido Insurance Application** looks and works:
@@ -87,6 +88,8 @@ This rule (`WatchAgencyCode`) monitors changes to the `AgencyCode` property and 
 ### 📄 PEGA Log Viewer  
 Filtered server logs for the operator `rapido@impl.com`, useful for identifying runtime errors and debugging.  
 ![PEGA Log Viewer](https://raw.githubusercontent.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/main/Screenshot%20(1942).png)
+
+```
 
 ## 🔧 How to Deploy
 
