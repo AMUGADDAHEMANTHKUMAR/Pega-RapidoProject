@@ -52,6 +52,10 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 A quick preview of how the **Rapido Insurance Application** looks and works:
 
 ### 🏠 Home Screen
+
+🖼️ Below are some screenshots of the Lodo Hostel application interface.
+You can download the full project and explore all features in a fully functional Pega environment.
+
 Application In Screenshots
 
 <img src="https://github.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/blob/main/Screenshot%20(1931).png" width="800" height="800"> 
