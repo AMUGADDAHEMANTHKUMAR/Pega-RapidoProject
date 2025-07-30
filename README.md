@@ -49,21 +49,29 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 ## 📸 Screenshots (Optional)
 
-```markdown
 ## 📸 Screenshots
 
-> Add visuals to make the README more engaging:
+A quick preview of how the **Rapido Insurance Application** looks and works:
 
-### 🧾 Policy Form UI
-![Policy Form](screenshots/policy_form.png)
+### 🏠 Home Screen
+![Home Screen](Screenshot (1927).png)
 
-### 🧠 Decision Strategy Example
-![Decision Strategy](screenshots/decision_strategy.png)
+### 📝 Policy Form
+Users can enter vehicle and customer details to initiate policy creation.
+![Policy Form](Screenshot (1928).png)
 
-### 💸 Premium Calculation Display
-![Premium Calculation](screenshots/premium_calc.png)
+### 📊 Decision Table for Policy Suggestion
+Premium logic and policy recommendations based on vehicle type, IDV, and duration.
+![Decision Table](Screenshot (1930).png)
 
----
+### 💰 Premium Calculation
+Auto-calculated premium values using Declare Expressions.
+![Premium Calculation](Screenshot (1931).png)
+
+### ✅ Confirmation Screen
+Once approved, the final policy is shown with all selected options.
+![Confirmation Screen](Screenshot (1932).png)
+
 
 ## 🔧 How to Deploy
 
