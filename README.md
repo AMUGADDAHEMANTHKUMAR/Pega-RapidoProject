@@ -47,7 +47,6 @@ The **Rapido Insurance Application** offers a streamlined and intelligent soluti
 
 ---
 
-```md
 ## 📸 Application Screenshots
 
 A quick preview of how the **Rapido Insurance Application** looks and works:
