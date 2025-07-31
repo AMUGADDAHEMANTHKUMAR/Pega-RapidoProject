@@ -88,7 +88,6 @@ This rule (`WatchAgencyCode`) monitors changes to the `AgencyCode` property and 
 Filtered server logs for the operator `rapido@impl.com`, useful for identifying runtime errors and debugging.  
 ![PEGA Log Viewer](https://raw.githubusercontent.com/AMUGADDAHEMANTHKUMAR/Pega-RapidoProject/main/Screenshot%20(1942).png)
 
-```
 
 ## 🔧 How to Deploy
 
@@ -111,8 +110,8 @@ Filtered server logs for the operator `rapido@impl.com`, useful for identifying 
 
 ## 📬 Contact
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or email if you'd like to collaborate or have questions.
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/amugaddahemanthkumar/) or [Email](https://mail.google.com/mail/?view=cm&fs=1&to=hemanthkumar7783@gmail.com&su=Hello&body=Hi%20Hemanth,%20I%20wanted%20to...)
+ if you'd like to collaborate or have questions.
 
 ---
 
-> 🚀 Built on Pega to revolutionize the insurance experience with smart automation and user-focused design.
